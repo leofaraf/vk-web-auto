@@ -1,0 +1,35 @@
+version: '3'
+
+services:
+  web:
+    image: nginx:1.25
+    ports:
+      - "80:80"
+      - "433:433"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+    # depends_on:
+    #   - backend
+    #   - frontend
+    
+  # frontend:
+  #   image: frontend
+
+  # backend:
+  #   image: backend
+  #   environment:
+  #     DATABASE_URL: postgres://leo:qwertyuiop123A@db/inst
+  #     SMTP_RELAY: smtp-relay.gmail.com
+  #     SMTP_USERNAME: leofaraf@gmail.com
+  #     SMTP_PASSWORD: "ifub vzzk srih dwbc"
+  #   depends_on:
+  #     - db
+
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: inst
+      POSTGRES_USER: leo
+      POSTGRES_PASSWORD: qwertyuiop123A
+    ports:
+      - "5432:5432"
