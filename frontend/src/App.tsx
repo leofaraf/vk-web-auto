@@ -3,6 +3,7 @@ import FlexibleContainer from "@/components/ui/flexible-container"
 import { ModeToggle } from "@/components/mode-toggle"
 import Accounts from "@/components/accounts"
 import Posts from "@/components/posts"
+import Coverages from "@/components/coverages"
 
 function App() {
   return (
@@ -16,8 +17,8 @@ function App() {
           <div className="w-full grid lg:grid-cols-3 gap-6">
             <Accounts />
             <Posts />
+            <Coverages />
             {/* <div className="w-full h-64 bg-foreground"></div> */}
-            <div className="w-full h-64 bg-foreground"></div>
           </div>
         </div>
       </FlexibleContainer>

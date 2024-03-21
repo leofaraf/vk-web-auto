@@ -4,7 +4,9 @@ type ThemeProviderState = {
     accounts: Account[],
     setAccounts: Dispatch<SetStateAction<Account[]>>,
     posts: string[],
-    setPosts: Dispatch<SetStateAction<string[]>>
+    setPosts: Dispatch<SetStateAction<string[]>>,
+    coverages: string[],
+    setCoverages: Dispatch<SetStateAction<string[]>>,
 }
 
 type Account = {
@@ -20,13 +22,16 @@ export default function DataProvider({
 }: {children: React.ReactNode}) {
     const [accounts, setAccounts] = useState<Account[]>([])
     const [posts, setPosts] = useState<string[]>([])
+    const [coverages, setCoverages] = useState<string[]>([])
 
     return (
         <DataProviderContext.Provider value={{
             accounts,
             setAccounts,
             posts,
-            setPosts
+            setPosts,
+            coverages,
+            setCoverages
         }}>
             {children}
         </DataProviderContext.Provider>

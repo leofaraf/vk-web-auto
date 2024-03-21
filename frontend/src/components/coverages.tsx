@@ -11,33 +11,31 @@ import {
 
 import { DataProviderContext } from "@/components/data-provider"
 import { useContext } from "react"
-import CreatePost from "@/components/posts/create-post"
-import UpdatePosts from "@/components/posts/update-posts"
-import DeletePost from "@/components/posts/delete-post"
-import DownloadPost from "@/components/posts/download-post"
+import UpdateCoverage from "./coverages/update-coverages";
+import DownloadCoverage from "./coverages/download-coverages";
+import DeleteCoverage from "./coverages/delete-coverages";
 
-export default function Posts() {
+export default function Coverages() {
     const dataContext = useContext(DataProviderContext);
 
     return (
         <div className="w-full max-h-[80vh] overflow-y-auto space-y-3">
-            <UpdatePosts />
-            <CreatePost />
+            <UpdateCoverage />
             <Table>
-                <TableCaption>Список постов.</TableCaption>
+                <TableCaption>Список отчетов.</TableCaption>
                 <TableHeader>
                     <TableRow>
                     <TableHead className="w-[100px]">Название</TableHead>
-                        <TableHead className="text-right">Действия</TableHead>
+                        <TableHead className="text-right">Перейти</TableHead>
                     </TableRow>
                 </TableHeader>
                 <TableBody>
-                    {dataContext?.posts.map((post) => (
-                    <TableRow key={post}>
-                        <TableCell className="font-medium">{post}</TableCell>
+                    {dataContext?.coverages.map((coverage) => (
+                    <TableRow key={coverage}>
+                        <TableCell className="font-medium">{coverage}</TableCell>
                         <TableCell className="text-right space-x-1">
-                            <DeletePost post={post} />
-                            <DownloadPost post={post} />
+                            <DownloadCoverage coverage={coverage} />
+                            <DeleteCoverage coverage={coverage} />
                         </TableCell>
                     </TableRow>
                     ))}
@@ -45,7 +43,7 @@ export default function Posts() {
                 <TableFooter>
                     <TableRow>
                         <TableCell colSpan={3}>Всего</TableCell>
-                        <TableCell className="text-right">{dataContext?.posts.length}</TableCell>
+                        <TableCell className="text-right">{dataContext?.coverages.length}</TableCell>
                     </TableRow>
                 </TableFooter>
             </Table>
