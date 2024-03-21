@@ -21,43 +21,32 @@ import {
 } from "@/components/ui/dialog"
 
 import { Button } from "./ui/button"
-import { BarChart } from "lucide-react"
+import { BarChart, Download } from "lucide-react"
 import { toast } from "sonner"
 import { Progress } from "@/components/ui/progress"
+import { DataProviderContext } from "@/components/data-provider"
+import { useContext, useState } from "react"
+import { POSTS_URL } from "@/lib/constants"
 
-const posts = [
-    {
-        name: "детская  зубная щетка",
-        status: false,
-        views: 1000
-    },
-    {
-        name: "зубная паста",
-        status: true,
-        views: 1212
-    }
-]
-
-function UpdatePost({account}: any) {
+function DownloadPost({post}: {post: string}) {
     return (
         <Dialog>
             <DialogTrigger>
                 <button className="rounded-lg bg-foreground w-6 h-6 flex items-center justify-center">
-                    <BarChart color="white" width={16} height={16} />
+                    <Download color="white" width={16} height={16} />
                 </button>
             </DialogTrigger>
             <DialogContent>
                 <DialogHeader>
-                <DialogTitle>{account.name}</DialogTitle>
+                <DialogTitle>{post}</DialogTitle>
                 <DialogDescription>
                     <p>Это дейсвтие невозможно отменить.</p>
-                    <p>Просмотры: {account.views}</p>
                 </DialogDescription>
                 <DialogFooter>
                     <Button variant={"outline"} onClick={() => {
-                        console.log("account: ", account, ", was removed")
+                        console.log("account: ", post, ", was removed")
                         toast("Статус поста был изменен")
-                    }}>{account.status ? "Отключить" : "Включить"}</Button>
+                    }}>Скачать</Button>
                 </DialogFooter>
                 </DialogHeader>
             </DialogContent>
@@ -66,6 +55,38 @@ function UpdatePost({account}: any) {
 }
 
 function UpdatePosts() {
+    const dataContext = useContext(DataProviderContext);
+    const [isLoading, setLoading] = useState<boolean>(false);
+    const [progress, setProgress] = useState<number>(0);
+
+    const handleSumbit = () => {
+        setLoading(true)
+        setProgress(50)
+
+        fetch(POSTS_URL)
+        .then(p => {
+            if (p.status == 200) {
+                p.json().then(json => {
+                    dataContext?.setPosts(json)
+                    setProgress(100)
+                    toast("Успешно")
+                }).catch(_ => {
+                    setProgress(0)
+                    toast("Ошибка веб-интерфейса")
+                })
+            } else {
+                setProgress(0)
+                toast("Ошибка от сервера")
+            }
+            setLoading(false)
+        }).catch(e => {
+            setProgress(0)
+            toast("Сервер не отвечает")
+            console.log(e)
+            setLoading(false)
+        })
+    }
+
     return (
         <Dialog>
             <DialogTrigger asChild>
@@ -80,14 +101,10 @@ function UpdatePosts() {
                     Это действие будет невозможно отменить
                 </DialogDescription>
                 <div className="py-3">
-                    <Progress value={40} />
+                    <Progress value={progress} />
                 </div>
                 <DialogFooter>
-                    <DialogClose asChild>
-                        <Button variant={"outline"} className="w-full" onClick={() => {
-                            toast("Accounts was added")
-                        }}>Обновить</Button>
-                    </DialogClose>
+                    <Button disabled={isLoading}  variant={"outline"} className="w-full" onClick={handleSumbit}>Обновить</Button>
                 </DialogFooter>
                 </DialogHeader>
             </DialogContent>
@@ -95,26 +112,26 @@ function UpdatePosts() {
     )
 }
 
-export default function Accounts() {
+export default function Posts() {
+    const dataContext = useContext(DataProviderContext);
+
     return (
-        <div className="w-full">
+        <div className="w-full max-h-[80vh] overflow-y-auto">
             <UpdatePosts />
             <Table>
                 <TableCaption>Список постов.</TableCaption>
                 <TableHeader>
                     <TableRow>
                     <TableHead className="w-[100px]">Название</TableHead>
-                        <TableHead>Статус</TableHead>
                         <TableHead className="text-right">Перейти</TableHead>
                     </TableRow>
                 </TableHeader>
                 <TableBody>
-                    {posts.map((account) => (
-                    <TableRow key={account.name}>
-                        <TableCell className="font-medium">{account.name}</TableCell>
-                        <TableCell>{account.status ? <p className="text-red-700">Отключен</p> : "Активен"}</TableCell>
+                    {dataContext?.posts.map((post) => (
+                    <TableRow key={post}>
+                        <TableCell className="font-medium">{post}</TableCell>
                         <TableCell className="text-right">
-                            <UpdatePost account={account} />
+                            <DownloadPost post={post} />
                         </TableCell>
                     </TableRow>
                     ))}
@@ -122,7 +139,7 @@ export default function Accounts() {
                 <TableFooter>
                     <TableRow>
                         <TableCell colSpan={3}>Всего</TableCell>
-                        <TableCell className="text-right">{posts.length}</TableCell>
+                        <TableCell className="text-right">{dataContext?.posts.length}</TableCell>
                     </TableRow>
                 </TableFooter>
             </Table>

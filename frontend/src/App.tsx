@@ -16,6 +16,7 @@ function App() {
           <div className="w-full grid lg:grid-cols-3 gap-6">
             <Accounts />
             <Posts />
+            {/* <div className="w-full h-64 bg-foreground"></div> */}
             <div className="w-full h-64 bg-foreground"></div>
           </div>
         </div>
