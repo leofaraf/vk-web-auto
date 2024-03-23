@@ -1,32 +1,38 @@
-import { COVERAGES_URL, POSTS_URL } from "@/lib/constants";
+import { ADD_COVERAGE_URL, CHECK_URL } from "@/lib/constants";
 import { Dialog, DialogTrigger, DialogContent, DialogTitle, DialogDescription } from "@/components/ui/dialog";
 import { Progress } from "@/components/ui/progress";
-import { useContext, useState } from "react";
 import { toast } from "sonner";
 import { DataProviderContext } from "@/components/data-provider";
 import { Button } from "@/components/ui/button";
 import { DialogHeader, DialogFooter } from "@/components/ui/dialog";
+import { Input } from "@/components/ui/input";
+import { useContext, useState } from "react";
 
-export default function UpdateCoverages() {
-    const dataContext = useContext(DataProviderContext);
+export default function UploadPost() {
+    const [file, setFile] = useState<File | null>(null);
     const [isLoading, setLoading] = useState<boolean>(false);
     const [progress, setProgress] = useState<number>(0);
 
     const handleSumbit = () => {
+        if (!file) {
+            toast("Выберите файл")
+            return;
+        }
+
+        const formData = new FormData();
+        formData.append('file', file);
+        console.log(file)
+
         setLoading(true)
         setProgress(50)
 
-        fetch(COVERAGES_URL)
-        .then(p => {
+        fetch(ADD_COVERAGE_URL, {
+            method: 'POST',
+            body: formData,
+        }).then(p => {
             if (p.status == 200) {
-                p.json().then(json => {
-                    dataContext?.setCoverages(json)
-                    setProgress(100)
-                    toast("Успешно")
-                }).catch(_ => {
-                    setProgress(0)
-                    toast("Ошибка веб-интерфейса")
-                })
+                setProgress(100)
+                toast("Успешно")
             } else {
                 setProgress(0)
                 toast("Ошибка от сервера")
@@ -40,24 +46,31 @@ export default function UpdateCoverages() {
         })
     }
 
+    const handleFileSelected = (e: React.ChangeEvent<HTMLInputElement>) => {
+        if (e.target.files && e.target.files.length > 0) {
+            setFile(e.target.files[0])
+        }
+    } 
+
     return (
         <Dialog>
             <DialogTrigger asChild>
-                <Button variant="outline" className="w-full">
-                    Обновить посты
+                <Button variant={"outline"} className="w-full">
+                    Добавить пост
                 </Button>
             </DialogTrigger>
             <DialogContent>
                 <DialogHeader>
-                <DialogTitle>Посты</DialogTitle>
+                <DialogTitle>Выбор аккаунтов</DialogTitle>
                 <DialogDescription>
-                    Это действие будет невозможно отменить
+                    Это действие невозможно отменить.
                 </DialogDescription>
-                <div className="py-3">
+                <div className="space-y-4">
+                    <Input onChange={handleFileSelected} id="file" type="file" name="Выбор файла" />
                     <Progress value={progress} />
                 </div>
                 <DialogFooter>
-                    <Button disabled={isLoading}  variant={"outline"} className="w-full" onClick={handleSumbit}>Обновить</Button>
+                    <Button disabled={isLoading} variant={"outline"} className="w-full" onClick={handleSumbit}>Добавить</Button>
                 </DialogFooter>
                 </DialogHeader>
             </DialogContent>

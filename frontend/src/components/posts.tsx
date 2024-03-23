@@ -15,6 +15,7 @@ import CreatePost from "@/components/posts/create-post"
 import UpdatePosts from "@/components/posts/update-posts"
 import DeletePost from "@/components/posts/delete-post"
 import DownloadPost from "@/components/posts/download-post"
+import { Button } from "./ui/button"
 
 export default function Posts() {
     const dataContext = useContext(DataProviderContext);
@@ -23,6 +24,7 @@ export default function Posts() {
         <div className="w-full max-h-[80vh] overflow-y-auto space-y-3">
             <UpdatePosts />
             <CreatePost />
+
             <Table>
                 <TableCaption>Список постов.</TableCaption>
                 <TableHeader>

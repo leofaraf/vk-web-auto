@@ -1,4 +1,4 @@
-import { CREATE_POST_URL } from "@/lib/constants";
+import { CREATE_COVERAGE, CREATE_POST_URL } from "@/lib/constants";
 import { useContext, useState } from "react";
 import { toast } from "sonner";
 import { DataProviderContext } from "@/components/data-provider";
@@ -7,34 +7,32 @@ import { Progress } from "@/components/ui/progress";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 
-export default function CreatePost() {
+export default function CreateCoverages() {
     const dataContext = useContext(DataProviderContext);
     const [isLoading, setLoading] = useState<boolean>(false);
     const [progress, setProgress] = useState<number>(0);
-    const [txt, setTxt] = useState<File | null>(null);
-    const [xlsx, setXslx] = useState<File | null>(null);
+    const [file, setFile] = useState<File | null>(null);
 
     const handleSumbit = () => {
-        if (!txt || !xlsx) {
-            toast("Выберите файлы")
+        if (!file) {
+            toast("Выберите файл")
             return;
         }
 
         const formData = new FormData()
-        formData.append("settings", txt)
-        formData.append("request", xlsx)
+        formData.append("file", file)
 
         setLoading(true)
         setProgress(50)
 
-        fetch(CREATE_POST_URL, {
+        fetch(CREATE_COVERAGE, {
             method: "POST",
             body: formData,
         })
         .then(p => {
             if (p.status == 200) {
                 setProgress(100)
-                toast("Успешно")
+                toast("Успешно. Скачайте последний результат")
             } else {
                 setProgress(0)
                 toast("Ошибка от сервера")
@@ -48,15 +46,9 @@ export default function CreatePost() {
         })
     }
 
-    const handleTxtSelected = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const handleFileSelected = (e: React.ChangeEvent<HTMLInputElement>) => {
         if (e.target.files && e.target.files.length > 0) {
-            setTxt(e.target.files[0])
-        }
-    }
-
-    const handleXlsxSelected = (e: React.ChangeEvent<HTMLInputElement>) => {
-        if (e.target.files && e.target.files.length > 0) {
-            setXslx(e.target.files[0])
+            setFile(e.target.files[0])
         }
     }
 
@@ -64,7 +56,7 @@ export default function CreatePost() {
         <Dialog>
             <DialogTrigger asChild>
                 <Button variant="outline" className="w-full">
-                    Создать пост
+                    Создать отчет
                 </Button>
             </DialogTrigger>
             <DialogContent>
@@ -75,9 +67,7 @@ export default function CreatePost() {
                 </DialogDescription>
                 <div className="py-3 space-y-2">
                     <p className="text-sm ">Настройки (.txt)</p>
-                    <Input  onChange={handleTxtSelected} id="file" type="file" name="Выбор файла" />
-                    <p className="text-sm ">Настройки (.xlsx)</p>
-                    <Input onChange={handleXlsxSelected} id="file" type="file" name="Выбор файла" />
+                    <Input onChange={handleFileSelected} id="file" type="file" name="Выбор файла" />
                     <Progress value={progress} />
                 </div>
                 <DialogFooter>
