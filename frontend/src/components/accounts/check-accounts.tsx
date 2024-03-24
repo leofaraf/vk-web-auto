@@ -71,7 +71,7 @@ export default function CheckAccounts() {
         <Dialog>
             <DialogTrigger asChild>
                 <Button variant={"outline"} className="w-full">
-                    Добавить и проверить аккаунты
+                    Проверить аккаунты
                 </Button>
             </DialogTrigger>
             <DialogContent>

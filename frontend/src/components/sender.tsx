@@ -3,6 +3,7 @@ import UploadComments from "./sender/upload-comments";
 import UploadOrder from "./sender/upload-order";
 import UploadInput from "./sender/upload-input";
 import UplaodSettings from "./sender/upload-settings";
+import SenderRunner from "./sender/sender-runner";
 
 export default function Sender() {
     return (
@@ -11,6 +12,7 @@ export default function Sender() {
             <UploadOrder />
             <UploadInput />
             <UplaodSettings />
+            <SenderRunner />
         </div>
     )
 }

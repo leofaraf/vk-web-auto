@@ -15,9 +15,9 @@ function App() {
             <ModeToggle />
           </div>
           <div className="w-full grid lg:grid-cols-4 gap-6">
-            <Accounts />
             <Posts />
             <Coverages />
+            <Accounts />
             <Sender />
             {/* <div className="w-full h-64 bg-foreground"></div> */}
           </div>
