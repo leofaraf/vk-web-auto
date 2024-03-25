@@ -32,14 +32,14 @@ pub fn add_post(data: BarkovSettings) -> Res<()>{
 }
 
 pub fn remove_post(path: String) -> Result<(), Box<dyn std::error::Error>> {
-    let script_path = PathBuf::from(format!("./scripts/barkov111/Готовые Файлы/{path}"));
+    let script_path = PathBuf::from(format!("./scripts/barkov111/Готовые файлы/{path}"));
     remove_file(script_path)?;
 
     Ok(())
 }
 
 pub fn get_posts() -> Result<Vec<String>, Box<dyn std::error::Error>> {
-    let script_path = PathBuf::from("./scripts/barkov111/Готовые Файлы/");
+    let script_path = PathBuf::from("./scripts/barkov111/Готовые файлы/");
     let paths = fs::read_dir(script_path)?;
 
     let mut path_names = vec![];
