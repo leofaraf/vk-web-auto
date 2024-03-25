@@ -1,3 +1,5 @@
+use std::path::PathBuf;
+
 use actix_web::{delete, get, middleware::Logger, post, put, web::{self, Data}, App, HttpResponse, HttpServer, Responder};
 use log::info;
 use routes::{barkov::{add_post, delete_post, get_posts}, check::check_accounts, coverage::{add_coverage, check_coverage, delete_coverage, get_coverages, last_coverage}, serder::{start_sender, upload_comments, upload_input, upload_order, upload_settings}};
@@ -35,8 +37,18 @@ async fn main() -> std::io::Result<()> {
                 )
                 .service(
                     web::scope("/static")
-                        .service(actix_files::Files::new("/posts", "scripts\\barkov111\\Готовые файлы\\").show_files_listing())
-                        .service(actix_files::Files::new("/coverages", "scripts\\Охваты\\Готовые файлы\\").show_files_listing())
+                        .service(
+                            actix_files::Files::new(
+                                "/posts",
+                                PathBuf::from("scripts\\barkov111\\Готовые файлы\\")
+                            ).show_files_listing()
+                        )
+                        .service(
+                            actix_files::Files::new(
+                                "/coverages",
+                                PathBuf::from("scripts\\Охваты\\Готовые файлы\\")
+                            ).show_files_listing()
+                        )
                 )
         )
     })
