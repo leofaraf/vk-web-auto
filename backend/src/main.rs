@@ -40,13 +40,13 @@ async fn main() -> std::io::Result<()> {
                         .service(
                             actix_files::Files::new(
                                 "/posts",
-                                PathBuf::from("scripts\\barkov111\\Готовые файлы\\")
+                                PathBuf::from(".\\scripts\\barkov111\\Готовые файлы\\")
                             ).show_files_listing()
                         )
                         .service(
                             actix_files::Files::new(
                                 "/coverages",
-                                PathBuf::from("scripts\\Охваты\\Готовые файлы\\")
+                                PathBuf::from(".\\scripts\\Охваты\\Готовые файлы\\")
                             ).show_files_listing()
                         )
                 )
