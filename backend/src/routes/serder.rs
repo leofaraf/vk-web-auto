@@ -45,6 +45,7 @@ impl StreamHandler<Result<ws::Message, ws::ProtocolError>> for WebSocketActor {
                                     ctx.text("started");
                                 }
                                 Err(err) => {
+                                    info!("Running script error: {}", err);
                                     ctx.text("cant_start");
                                 }
                             };
