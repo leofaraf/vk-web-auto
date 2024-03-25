@@ -53,5 +53,5 @@ async fn get_coverages() -> impl Responder {
 
 #[get("/coverage-last")]
 async fn last_coverage() -> actix_web::Result<NamedFile> {
-    Ok(NamedFile::open("scripts\\Охваты\\output.csv")?)
+    Ok(NamedFile::open("./scripts/Охваты/output.csv")?)
 }

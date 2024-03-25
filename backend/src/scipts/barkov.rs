@@ -6,8 +6,8 @@ use log::info;
 use crate::types::{BarkovSettings, Res};
 
 pub fn add_post(data: BarkovSettings) -> Res<()>{
-    let settings_path = PathBuf::from(format!("scripts\\barkov111\\settings.txt"));
-    let request_path = PathBuf::from(format!("scripts\\barkov111\\settings.xlsx"));
+    let settings_path = PathBuf::from(format!("./scripts/barkov111/settings.txt"));
+    let request_path = PathBuf::from(format!("./scripts/barkov111/settings.xlsx"));
 
     info!("Removing files...");
     remove_file(&settings_path).unwrap_or(());
@@ -25,21 +25,21 @@ pub fn add_post(data: BarkovSettings) -> Res<()>{
     orderfull.write_all(&file_content)?;
 
     info!("Running python script");
-    let script_path = PathBuf::from("scripts\\barkov111\\");
+    let script_path = PathBuf::from(".scripts/barkov111/");
     Command::new("python").arg("barkov.py").current_dir(script_path).spawn()?.wait()?;
 
     Ok(())
 }
 
 pub fn remove_post(path: String) -> Result<(), Box<dyn std::error::Error>> {
-    let script_path = PathBuf::from(format!("scripts\\barkov111\\Готовые Файлы\\{path}"));
+    let script_path = PathBuf::from(format!("./scripts/barkov111/Готовые Файлы/{path}"));
     remove_file(script_path)?;
 
     Ok(())
 }
 
 pub fn get_posts() -> Result<Vec<String>, Box<dyn std::error::Error>> {
-    let script_path = PathBuf::from("scripts\\barkov111\\Готовые Файлы\\");
+    let script_path = PathBuf::from("./scripts/barkov111/Готовые Файлы/");
     let paths = fs::read_dir(script_path)?;
 
     let mut path_names = vec![];

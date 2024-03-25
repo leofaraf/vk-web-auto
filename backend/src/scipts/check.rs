@@ -5,11 +5,11 @@ use crate::types::{Account, CheckEntry, PreCheckAccount};
 
 pub fn run(path: &Path) -> Result<Vec<Account>, Box<dyn std::error::Error>> {
     // Go to script dir        
-    let script_path = PathBuf::from("scripts\\сheck\\");
-    let orderfull_path = PathBuf::from("scripts\\сheck\\orderfull.txt");
+    let script_path = PathBuf::from("./scripts/сheck/");
+    let orderfull_path = PathBuf::from("./scripts/сheck/orderfull.txt");
 
-    remove_file("orderfull.txt").unwrap_or(());
-    remove_file("output.xlsx").unwrap_or(());
+    remove_file(&orderfull_path).unwrap_or(());
+    remove_file("./scripts/сheck/output.txt").unwrap_or(());
 
     let file_content = read_to_string(path)?;
     println!("File content: {:?}", file_content);
@@ -25,7 +25,7 @@ pub fn run(path: &Path) -> Result<Vec<Account>, Box<dyn std::error::Error>> {
 
 pub fn output() -> Result<Vec<Account>, Box<dyn std::error::Error>> {
     // Read answer
-    let output_path = PathBuf::from("scripts\\сheck\\output.xlsx");
+    let output_path = PathBuf::from("./scripts/сheck/output.xlsx");
     let mut excel: Xlsx<_> = open_workbook(output_path)?;
 
     let range = excel

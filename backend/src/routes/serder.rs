@@ -32,7 +32,7 @@ impl StreamHandler<Result<ws::Message, ws::ProtocolError>> for WebSocketActor {
                             // Execute command
                             let child = Command::new("python")
                                 .arg("main.py")
-                                .current_dir(PathBuf::from("scripts\\VK2\\"))
+                                .current_dir(PathBuf::from("./scripts/VK2/"))
                                 .stdin(Stdio::null())
                                 // .stdout(Stdio::piped())
                                 .stderr(Stdio::piped())
