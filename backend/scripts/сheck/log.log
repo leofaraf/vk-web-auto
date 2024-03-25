@@ -1,0 +1,3958 @@
+INFO:vk_api:Auth with login: 79902658283
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79880687381
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79200116522
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79101361509
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79200780667
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79068151048
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79902658283
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79880687381
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79200116522
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79101361509
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79200780667
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79068151048
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79902658283
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79880687381
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79200116522
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79101361509
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79200780667
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79068151048
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79916259338
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79916259338
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79624930742
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79182484496
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79361968117
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79136309598
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79786852259
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79628842092
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79825047590
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79039256891
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79080984241
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79020962885
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79064573698
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79495769295
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79362913056
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79250778992
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: 79679110925
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: 79624930742
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79624930742
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79182484496
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79361968117
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79136309598
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79786852259
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79628842092
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79825047590
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79039256891
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79624930742
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79182484496
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79361968117
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79136309598
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79786852259
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79628842092
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79825047590
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79039256891
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79080984241
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79020962885
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79064573698
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79495769295
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79362913056
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79250778992
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79679110925
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79080984241
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:remixsid is not valid
+INFO:vk_api:remixsid from config is not valid: 1_YZSv05Eg5lgsSnEtTy8atw550jtb_Lhi70xDdzi-iIpNQaNMl6iTM9OHKy-6Is5Vt_Tvbc-RPuAQ9c3bCe3_Mg
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: {'access_token': 'vk1.a.FRx-a3y8fGTiJfZ1hYfnB5dnNNdKo66WYgvwFmzPeSc3oqjjECsV1PWx5LuPr8AyEOaFAyxQQoqRmbK_wKsLhgF5oe6mGarrAKnpgWjg89yxPCfkqYlsyQz9F2Zjm_J8O9Mwi7qBEV15mk9FozY1TB04Y3gPd13UfsQvj09Oy4kyK3bUI_dSPEZlVskHo15a_Sq5WRV_FTKCcv4BYBi8gw', 'expires_in': '86400', 'user_id': '845343163'}
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79020962885
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:remixsid is not valid
+INFO:vk_api:remixsid from config is not valid: 1_hDMDv2587BX0COdQHrLciHFwrXdKOakiqOKAhx240mU8NGWTZfTIZbunCbz8cKUMhNqRpHLjMZwmbflmuPLhOg
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is valid
+INFO:vk_api:Auth with login: 79064573698
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79495769295
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79362913056
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79250778992
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79679110925
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79902658283
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79880687381
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79200116522
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79101361509
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79200780667
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79068151048
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79205618747
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79049287322
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79048460249
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79902137541
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79283760506
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79371667694
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79809311318
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79178087760
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79256666984
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79016525871
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79015778978
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79132411173
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79809311318
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79178087760
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79256666984
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79016525871
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79015778978
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79132411173
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79537957260
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79091453824
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79015778978
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79132411173
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79902658283
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79200116522
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79101361509
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79200780667
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79068151048
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79049287322
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79283760506
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79624930742
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79182484496
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79361968117
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79136309598
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79786852259
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79628842092
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79825047590
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79039256891
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79080984241
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79020962885
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79064573698
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79495769295
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79362913056
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79250778992
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79679110925
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79142136629
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79278655381
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79828221644
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79022878382
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79527151854
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79827337055
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79910894360
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Auth with login: 79226313523
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79271590514
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79095037447
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79269135282
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79080143284
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79240015756
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79788649992
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79043536941
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79916605457
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79063461516
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79214130207
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79223398733
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79196920243
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Auth with login: 79105121731
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79069372493
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79038417427
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79035348981
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79874753981
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79156739900
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79011776687
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79635205159
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79082951471
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79661391457
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79900864646
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79248456692
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79639359610
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: 79878115765
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: 79535358965
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: 79241514596
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: 79912870130
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: 79378717263
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: 79041613457
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: 79210259801
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: _
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: _
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: _
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: _
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: _
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Captcha code is required
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79193799572
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79952058892
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79604235229
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79832570719
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Auth with login: 79785643518
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
+INFO:vk_api:Auth with login: 79209386300
+INFO:vk_api:Checking remixsid...
+INFO:vk_api:No remixsid
+INFO:vk_api:remixsid from config is not valid: None
+INFO:vk_api:Logging in...
+INFO:vk_api:Got remixsid
+INFO:vk_api:Checking security check request
+INFO:vk_api:Security check is not required
+INFO:vk_api:access_token from config is not valid: None
+INFO:vk_api:Got access_token
