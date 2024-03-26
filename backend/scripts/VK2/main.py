@@ -78,7 +78,8 @@ def send_comment(acc, comment_text, user_id, post_id, url):  # чтобы отп
         if url not in com:
             com.append(url)
     except vk_api.exceptions.ApiError as e:
-        logging.error(f"[{datetime.datetime.now().strftime('%H-%M-%S')}]Ошибка отправки комментария для {url}:", e)
+        logging.exception(e)
+        logging.error(f"[{datetime.datetime.now().strftime('%H-%M-%S')}]Ошибка отправки комментария для {url}")
         logging.error("Выходим...")
         exit()
 
