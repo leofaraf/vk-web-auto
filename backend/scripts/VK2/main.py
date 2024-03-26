@@ -11,7 +11,10 @@ import datetime
 import csv
 import openai
 import threading
+import logger
+import logging
 
+logger.configure_logger(True)
 ev = threading.Event()
 
 
@@ -20,7 +23,7 @@ def start_acc_post(acc):  # разбиваем работу аккаунтов �
     #sys.stdout.write('Поток запущен')
     for url in urls:
         #try:
-        print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Взята ссылка - {url[0]}")
+        logging.info(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Взята ссылка - {url[0]}")
         url_create = url[0].split('wall')[1]  # 114005536_47613
         user_id, post_id = url_create.split('_')
         api_token = set[4]
@@ -31,7 +34,7 @@ def start_acc_post(acc):  # разбиваем работу аккаунтов �
             http_client=httpx.Client(proxies=set[7])
         )
         #print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Сессия создана")
-        print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Генерация комментария")
+        logging.info(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Генерация комментария")
         if len(url[1]) < 2000:
             completion = client.chat.completions.create(
                 model="gpt-3.5-turbo-16k",
@@ -42,7 +45,7 @@ def start_acc_post(acc):  # разбиваем работу аккаунтов �
             #print(completion)
             # обращение к ChatGTP
         else:
-            print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Пост укорочен")
+            logging.info(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Пост укорочен")
             completion = client.chat.completions.create(
                 model="gpt-3.5-turbo-16k",
                 messages=[
@@ -61,7 +64,7 @@ def start_acc_post(acc):  # разбиваем работу аккаунтов �
         else:
             a, b = acc[-1].split('-')
             time.sleep(random.randint(int(a), int(b)))
-        print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Запись комментария в базу")
+        logging.info(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Запись комментария в базу")
         with open('comments.txt', "w") as file:  # Обновляем список комментариев
             file.writelines("%s\n" % line for line in com)
 
@@ -69,13 +72,15 @@ def start_acc_post(acc):  # разбиваем работу аккаунтов �
 def send_comment(acc, comment_text, user_id, post_id, url):  # чтобы отправить комментарии
     try:
         #print(comment_text)
-        print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Отправка комментария для {url}")
+        logging.info(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Отправка комментария для {url}")
         acc.wall.createComment(owner_id=user_id, post_id=post_id, message=comment_text)
-        print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Комментарий отправлен для {url}")
+        logging.info(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Комментарий отправлен для {url}")
         if url not in com:
             com.append(url)
     except vk_api.exceptions.ApiError as e:
-        print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}]Ошибка отправки комментария для {url}:", e)
+        logging.error(f"[{datetime.datetime.now().strftime('%H-%M-%S')}]Ошибка отправки комментария для {url}:", e)
+        logging.error("Выходим...")
+        exit()
 
 with open("comments.txt", 'r', encoding='utf8') as file:  # считываем готовые ссылки на посты
     com = file.read().split('\n')
@@ -84,10 +89,10 @@ with open('setting.txt', 'r', encoding='utf8') as file:  # считываем н
 
 if set[5] == '-' or set[5] == "<название файла в формате *.csv/Если файла ставим '-'>":  # проверяем используем парсер или готовый файл
     text = set[0]
-    print('Регистрация в Вк')
+    logging.info('Регистрация в Вк')
     phone = set[1]
     password = set[2]
-    print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Начинаем парсер")
+    logging.info(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Начинаем парсер")
     chrome_options = webdriver.ChromeOptions()
     prefs = {'download.default_directory': os.getcwd()}
     chrome_options.add_experimental_option('prefs', prefs)
@@ -155,8 +160,8 @@ if set[5] == '-' or set[5] == "<название файла в формате *.
 
     time.sleep(60)
 
-    print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Файл получен")
-    print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Считываем файл")
+    logging.info(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Файл получен")
+    logging.info(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Считываем файл")
 
     # name_excel = ''  # ищем название нужного файла
     for i in os.listdir():
@@ -168,7 +173,7 @@ if set[5] == '-' or set[5] == "<название файла в формате *.
     with open(name_excel, encoding='utf-8') as r_file:  # считываем скаченный файл
         file_reader = csv.reader(r_file, delimiter=";")
         for row in list(file_reader)[1:]:
-            print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Получена ссылка - {row[0]}")
+            logging.info(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Получена ссылка - {row[0]}")
             urls.append([row[0], row[5]])
 
     try:
@@ -183,15 +188,15 @@ else:
         for row in list(file_reader)[1:]:
             try:
                 urls.append([row[0], row[5]])
-                print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Получена ссылка - {row[0]}")
+                logging.info(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Получена ссылка - {row[0]}")
             except Exception as ex:
-                print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Не удалось получить ссылку")
+                logging.error(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Не удалось получить ссылку")
 
-print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Ссылки собраны")
+logging.info(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Ссылки собраны")
 
 time_sleep = set[3]
 
-print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Подключение аккаунтов")
+logging.info(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Подключение аккаунтов")
 
 data = []
 
@@ -214,12 +219,12 @@ for i in data:  # подключаемся к аккаунтам
             session = vk_api.VkApi(token=i[1])
         vk = session.get_api()
         acc.append([vk, i[2], i[1], i[3]])
-        print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Подключен аккаунт с номером {i[0]}")
+        logging.info(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Подключен аккаунт с номером {i[0]}")
     except Exception as ex:
-        print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Ошибка подключения аккаунт с номером {i[0]} - {ex}")
+        logging.error(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Ошибка подключения аккаунт с номером {i[0]} - {ex}")
 
 if not acc:
-    print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Подключенных аккаунтов не найдено")
+    logging.error(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Подключенных аккаунтов не найдено")
     exit()
 
 api_token = set[4]
@@ -228,7 +233,7 @@ client = openai.OpenAI(
             http_client=httpx.Client(proxies=set[7])
 )
 if set[6] == '2':
-    print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Отбираем нужные посты")
+    logging.info(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Отбираем нужные посты")
     res = []
     for i in urls:  # отсеиваем посты с помощью ChatGPT
         try:
@@ -239,21 +244,21 @@ if set[6] == '2':
                         {"role": "user", "content": f"Take a deep breath. Read the post {i[1]}. If the post is in Russian and discusses or advertises a product then answer Да, otherwise Нет. Reply only Да or Нет"}
                     ]
                 )
-                print(completion)
+                logging.info(completion)
                 if 'да' in completion.choices[0].message.content.lower().split():
                     res.append(i)
-                    print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Пост подходит - {i[0]}")
+                    logging.info(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Пост подходит - {i[0]}")
                 else:
-                    print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Пост не подходит - {i[0]}")
+                    logging.info(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Пост не подходит - {i[0]}")
         except Exception as ex:
-            print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Пост не подходит - {i[0]}")
+            logging.error(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Пост не подходит - {i[0]}")
 
-print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Начинаем постить")
+logging.info(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Начинаем постить")
 threads = []
 for ac in acc:
     thread = threading.Thread(target=start_acc_post, args=(ac,),daemon=True)  # каждый аккаунт будет работать в потоке
     threads.append(thread)
-    print(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Запуск потока - {thread}")
+    logging.info(f"[{datetime.datetime.now().strftime('%H-%M-%S')}] Запуск потока - {thread}")
     thread.start()
     time.sleep(5)
     #print('Ожидание дочерних')

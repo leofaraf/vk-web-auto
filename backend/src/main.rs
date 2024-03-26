@@ -49,6 +49,15 @@ async fn main() -> std::io::Result<()> {
                                 "./scripts/Охваты/Готовые файлы/"
                             ).show_files_listing()
                         )
+                        .service(
+                            web::scope("/logs")
+                                .service(
+                                    actix_files::Files::new(
+                                        "/sender",
+                                        "./scripts/VK2/logs/"
+                                    ).show_files_listing()
+                                )
+                        )
                 )
         )
     })
