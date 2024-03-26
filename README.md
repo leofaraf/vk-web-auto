@@ -1,0 +1,4 @@
+- Windows server 2019.
+- Install python 10 and all script requirements.
+- Go to frontend/ and run `npm run dev`
+- Go to backend/ and run `cargo run` (cargoV = 1.77)
